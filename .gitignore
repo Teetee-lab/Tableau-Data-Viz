@@ -1,0 +1,6 @@
+#Data file
+data/ 
+
+# MacOS desktop services store files
+.DS_Store*
+
